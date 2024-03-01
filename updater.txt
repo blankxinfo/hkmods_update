@@ -1,0 +1,18 @@
+{
+  "hk_update": [
+    {
+ "version":"9.62",
+ "title":"Update Disponible",
+ "description":"DEVIL BUTT Offical V9.65
+
+Base: 2.24.1.78
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+Update System By Devil Butt
+
+ Mr blankxinfo@gmail.com ",
+"download":"https://youtube.com/@sharjeelbutt4u?si=61h_e6Hm5qFLKH8d"
+}
+  ]
+}
