@@ -1,5 +1,5 @@
 {
-  "hk_update": [
+  "hkmods_update": [
     {
  "version":"9.62",
  "title":"Update Disponible",
