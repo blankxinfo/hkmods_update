@@ -1,7 +1,7 @@
 {
   "hkmods_update": [
     {
- "version":""(D) BUTT v6.0_B5",
+ "version":"(D) BUTT v6.0_B5",
  "title":"Update Disponible",
  "description":"DEVIL BUTT Offical V9.65
 
