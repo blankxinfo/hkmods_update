@@ -3,13 +3,13 @@
     {
  "version":"(D) BUTT v6.0_B5",
  "title":"Update Disponible",
- "description":"DEVIL BUTT Offical V9.65
+ "description":"(D) BUTT Offical V6.0_B5
 
 Base: 2.24.2.78
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-Update System By Devil Butt
+Update System By (D) BUTT
 
  Mr blankxinfo@gmail.com ",
 "download":"https://api.whatsapp.com/send?phone=923067299573&text=Help Me Sir New Update I'M (D) BUTT User"
